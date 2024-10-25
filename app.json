@@ -2,6 +2,7 @@
   "expo": {
     "name": "firebase_auth_tutorial",
     "slug": "firebase_auth_tutorial",
+    "scheme":"earthalert",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
